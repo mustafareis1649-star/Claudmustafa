@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Yapay zeka tarayıcınızda çalışır · Fotoğraf asla yüklenmez",
+  "hero_title_a": "Arka planı kaldırın,",
+  "hero_title_b": "konuyu koruyun",
+  "hero_lead": "Yeşil ekran veya düzenleme becerisi olmadan bir fotoğrafın konusunu şeffaf arka planla ayırın. Yapay zeka modeli kendi cihazınızda çalışır.",
+  "drop_title": "Görselinizi buraya bırakın",
+  "drop_sub": "veya göz atmak için tıklayın · JPG, PNG, WebP",
+  "invalid_file": "Lütfen bir görsel dosyası seçin.",
+  "remove_btn": "Arka planı kaldır",
+  "removing": "Arka plan kaldırılıyor…",
+  "generic_error": "Bir şeyler ters gitti, lütfen tekrar deneyin.",
+  "download_btn": "PNG'yi indir",
+  "choose_another": "Başka dosya seç",
+  "footnote": "İlk çalıştırmada tarayıcınıza küçük bir yapay zeka modeli indirilir (sonrasında önbelleğe alınır); fotoğrafın kendisi hiçbir yere gönderilmez. Çıktı, şeffaf bir PNG'dir.",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "İşi cihaz üzerinde çalışan bir yapay zeka modeli yapar — fotoğrafınız cihazınızda kalır.",
+  "step1_title": "Fotoğrafınızı ekleyin",
+  "step1_desc": "Sürükleyip bırakın veya cihazınızdan seçin. Tarayıcınızdan asla çıkmaz.",
+  "step2_title": "Yapay zeka konuyu bulsun",
+  "step2_desc": "Tek tıkla, cihaz üzerindeki model arka planı otomatik olarak keser.",
+  "step3_title": "PNG'yi indirin",
+  "step3_desc": "Her şeyin üzerine yerleştirmeye hazır, şeffaf arka planlı bir PNG alın."
+}

@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Kostenlos · Läuft in deinem Browser · Nichts wird hochgeladen",
+  "hero_title_a": "QR-Code erstellen,",
+  "hero_title_b": "aus beliebigem Text oder Link",
+  "hero_lead": "Verwandle eine URL, ein WLAN-Passwort oder beliebigen Text in einen scanbaren QR-Code, live erzeugt in deinem Browser.",
+  "input_label": "Text oder URL",
+  "input_placeholder": "https://beispiel.de",
+  "color_label": "Codefarbe",
+  "background_label": "Hintergrund",
+  "empty_hint": "Dein QR-Code erscheint hier, während du tippst.",
+  "generic_error": "Für diesen Text konnte kein Code erzeugt werden, bitte versuche es erneut.",
+  "download_btn": "PNG herunterladen",
+  "footnote": "Der Code wird lokal erzeugt — nichts, was du eingibst, wird irgendwohin gesendet.",
+  "how_title": "Drei Schritte, null Uploads",
+  "how_lead": "Alles geschieht von Anfang bis Ende auf deinem eigenen Gerät.",
+  "step1_title": "Text oder Link eingeben",
+  "step1_desc": "Der Code aktualisiert sich live beim Tippen — kein Button nötig.",
+  "step2_title": "Farben wählen",
+  "step2_desc": "Passe Code und Hintergrund an deine Marke oder dein Design an.",
+  "step3_title": "PNG herunterladen",
+  "step3_desc": "Erhalte ein hochauflösendes Bild, bereit zum Drucken oder Teilen."
+}

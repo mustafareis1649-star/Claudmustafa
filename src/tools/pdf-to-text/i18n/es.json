@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Free · Runs in your browser · Nothing is uploaded",
+  "hero_title_a": "Convert PDF to Text,",
+  "hero_title_b": "get a plain .txt file",
+  "hero_lead": "Extract every word from a PDF into a plain text file right in your browser — no signup, no upload, no waiting on a server.",
+  "drop_title": "Drop your PDF file here",
+  "drop_sub": "or click to browse · .pdf only",
+  "status_reading": "Reading page {current} of {total}…",
+  "status_done": "Done — your text file is ready.",
+  "footnote": "Formatting, images, and page layout are not preserved — only the text.",
+  "invalid_file": "Please choose a PDF file.",
+  "generic_error": "Something went wrong, please try another file.",
+  "download_btn": "Download file",
+  "choose_another": "Choose another file",
+  "how_title": "Three steps, zero uploads",
+  "how_lead": "Your file is processed on your own device from start to finish.",
+  "step1_title": "Add your PDF file",
+  "step1_desc": "Drag and drop, or choose from your device. It never leaves your browser.",
+  "step2_title": "It's processed locally",
+  "step2_desc": "Every page's text is read out, page by page.",
+  "step3_title": "Download the result",
+  "step3_desc": "Get your finished .txt file in one click, ready to paste anywhere."
+}

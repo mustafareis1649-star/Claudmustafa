@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Gratis · Se ejecuta en tu navegador · No se sube nada",
+  "hero_title_a": "Genera un favicon,",
+  "hero_title_b": "en todos los tamaños que un sitio necesita",
+  "hero_lead": "Sube una imagen y obtén un set completo de favicons —de 16px a 512px—, más un manifiesto web, todo en un solo .zip.",
+  "drop_title": "Suelta una imagen aquí",
+  "drop_sub": "PNG, JPG o WebP — las imágenes cuadradas funcionan mejor",
+  "invalid_file": "Eso no parece un archivo de imagen. Prueba con un PNG, JPG o WebP.",
+  "generating": "Generando tu set de favicons…",
+  "preview_title": "Vista previa",
+  "download_all_btn": "Descargar todo (.zip)",
+  "choose_another": "Elegir otra imagen",
+  "generic_error": "No se pudieron generar los favicons de esa imagen, inténtalo de nuevo.",
+  "footnote": "Cada tamaño se genera localmente en tu navegador — la imagen nunca se sube.",
+  "how_title": "Tres pasos, todos los tamaños listos",
+  "how_lead": "Una imagen y obtienes un set completo de favicons.",
+  "step1_title": "Sube tu imagen",
+  "step1_desc": "Cualquier PNG, JPG o WebP casi cuadrado funciona — se recorta automáticamente al centro.",
+  "step2_title": "Generamos cada tamaño",
+  "step2_desc": "Versiones de 16, 32, 48, 180, 192 y 512px, además de un site.webmanifest.",
+  "step3_title": "Descarga el .zip",
+  "step3_desc": "Coloca los archivos directamente en la carpeta raíz de tu sitio."
+}

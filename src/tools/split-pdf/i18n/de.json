@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Kostenlos · Läuft in deinem Browser · Es wird nichts hochgeladen",
+  "hero_title_a": "PDF aufteilen,",
+  "hero_title_b": "eine Datei pro Seite",
+  "hero_lead": "Teile ein PDF in einzelne Seiten auf und lade sie alle als ZIP herunter. Alles läuft auf deinem eigenen Gerät.",
+  "drop_title": "PDF hier ablegen",
+  "status_splitting": "Teile Seite {current} von {total}…",
+  "status_done": "Fertig — {count} Seiten in einer ZIP-Datei bereit.",
+  "footnote": "Jede Seite wird zu einer eigenen PDF-Datei im heruntergeladenen ZIP.",
+  "invalid_file": "Bitte wähle eine PDF-Datei aus.",
+  "generic_error": "Etwas ist schiefgelaufen, bitte versuche es erneut.",
+  "download_btn": "Datei herunterladen",
+  "choose_another": "Andere Datei wählen",
+  "drop_sub": "oder klicke zum Durchsuchen · nur PDF",
+  "how_title": "Drei Schritte, keine Uploads",
+  "how_lead": "Deine Datei wird von Anfang bis Ende auf deinem eigenen Gerät verarbeitet.",
+  "step1_title": "PDF hinzufügen",
+  "step1_desc": "Ziehen und ablegen oder vom Gerät auswählen. Sie verlässt nie deinen Browser.",
+  "step2_title": "Lokal verarbeitet",
+  "step3_title": "Ergebnis herunterladen",
+  "step3_desc": "Erhalte deine fertige Datei mit einem Klick, bereit zum Teilen oder Speichern."
+}

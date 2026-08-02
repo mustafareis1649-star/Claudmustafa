@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "Favicon oluştur,",
+  "hero_title_b": "bir sitenin ihtiyaç duyduğu her boyutta",
+  "hero_lead": "Tek bir görsel yükleyin, 16px'ten 512px'e kadar eksiksiz bir favicon seti ve bir web manifest dosyası tek bir .zip içinde hazır olsun.",
+  "drop_title": "Bir görseli buraya sürükleyin",
+  "drop_sub": "PNG, JPG veya WebP — kare görseller en iyi sonucu verir",
+  "invalid_file": "Bu bir görsel dosyası gibi görünmüyor. PNG, JPG veya WebP deneyin.",
+  "generating": "Favicon setiniz oluşturuluyor…",
+  "preview_title": "Önizleme",
+  "download_all_btn": "Tümünü indir (.zip)",
+  "choose_another": "Başka bir görsel seç",
+  "generic_error": "Bu görselden favicon oluşturulamadı, lütfen tekrar deneyin.",
+  "footnote": "Her boyut tarayıcınızda yerel olarak oluşturulur — görsel hiçbir yere yüklenmez.",
+  "how_title": "Üç adım, tüm boyutlar hazır",
+  "how_lead": "Bir görsel yükleyin, eksiksiz bir favicon seti alın.",
+  "step1_title": "Görselinizi yükleyin",
+  "step1_desc": "Kareye yakın herhangi bir PNG, JPG veya WebP çalışır — otomatik olarak ortadan kareye kırpılır.",
+  "step2_title": "Her boyutu oluşturuyoruz",
+  "step2_desc": "16, 32, 48, 180, 192 ve 512px sürümleri, artı bir site.webmanifest dosyası.",
+  "step3_title": ".zip dosyasını indirin",
+  "step3_desc": "Dosyaları doğrudan sitenizin kök klasörüne bırakın."
+}

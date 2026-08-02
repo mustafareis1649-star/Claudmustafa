@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Gratuit · Fonctionne dans votre navigateur · Rien n'est envoyé",
+  "hero_title_a": "Générez un favicon,",
+  "hero_title_b": "dans toutes les tailles dont un site a besoin",
+  "hero_lead": "Déposez une image et obtenez un jeu complet de favicons — de 16px à 512px, plus un manifeste web — le tout dans un seul .zip.",
+  "drop_title": "Déposez une image ici",
+  "drop_sub": "PNG, JPG ou WebP — les images carrées fonctionnent mieux",
+  "invalid_file": "Cela ne ressemble pas à un fichier image. Essayez un PNG, JPG ou WebP.",
+  "generating": "Génération de votre jeu de favicons…",
+  "preview_title": "Aperçu",
+  "download_all_btn": "Tout télécharger (.zip)",
+  "choose_another": "Choisir une autre image",
+  "generic_error": "Impossible de générer les favicons à partir de cette image, veuillez réessayer.",
+  "footnote": "Chaque taille est générée localement dans votre navigateur — l'image n'est jamais envoyée.",
+  "how_title": "Trois étapes, toutes les tailles couvertes",
+  "how_lead": "Une image en entrée, un jeu complet de favicons en sortie.",
+  "step1_title": "Importez votre image",
+  "step1_desc": "N'importe quel PNG, JPG ou WebP presque carré fonctionne — il est recadré automatiquement au centre.",
+  "step2_title": "Nous générons chaque taille",
+  "step2_desc": "Versions 16, 32, 48, 180, 192 et 512px, plus un site.webmanifest.",
+  "step3_title": "Téléchargez le .zip",
+  "step3_desc": "Placez les fichiers directement à la racine de votre site."
+}

@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Kostenlos · Läuft in deinem Browser · Es wird nichts hochgeladen",
+  "hero_title_a": "PDF drehen,",
+  "hero_title_b": "Ausrichtung korrigieren",
+  "hero_lead": "Drehe jede Seite eines PDFs mit einem Klick um 90°, 180° oder 270°. Läuft vollständig auf deinem eigenen Gerät.",
+  "drop_title": "PDF hier ablegen",
+  "rotate_btn": "PDF drehen",
+  "rotating": "Drehe…",
+  "footnote": "Die Drehung gilt für alle Seiten der Datei.",
+  "invalid_file": "Bitte wähle eine PDF-Datei aus.",
+  "generic_error": "Etwas ist schiefgelaufen, bitte versuche es erneut.",
+  "download_btn": "Datei herunterladen",
+  "choose_another": "Andere Datei wählen",
+  "drop_sub": "oder klicke zum Durchsuchen · nur PDF",
+  "how_title": "Drei Schritte, keine Uploads",
+  "how_lead": "Deine Datei wird von Anfang bis Ende auf deinem eigenen Gerät verarbeitet.",
+  "step1_title": "PDF hinzufügen",
+  "step1_desc": "Ziehen und ablegen oder vom Gerät auswählen. Sie verlässt nie deinen Browser.",
+  "step2_title": "Lokal verarbeitet",
+  "step3_title": "Ergebnis herunterladen",
+  "step3_desc": "Erhalte deine fertige Datei mit einem Klick, bereit zum Teilen oder Speichern."
+}

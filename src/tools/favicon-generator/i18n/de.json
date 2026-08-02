@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Kostenlos · Läuft in deinem Browser · Es wird nichts hochgeladen",
+  "hero_title_a": "Favicon erstellen,",
+  "hero_title_b": "in jeder Größe, die eine Website braucht",
+  "hero_lead": "Lade ein Bild hoch und erhalte ein komplettes Favicon-Set — 16px bis 512px, plus ein Web-Manifest — verpackt in einer .zip-Datei.",
+  "drop_title": "Bild hierher ziehen",
+  "drop_sub": "PNG, JPG oder WebP — quadratische Bilder funktionieren am besten",
+  "invalid_file": "Das sieht nicht nach einer Bilddatei aus. Versuche es mit PNG, JPG oder WebP.",
+  "generating": "Dein Favicon-Set wird erstellt…",
+  "preview_title": "Vorschau",
+  "download_all_btn": "Alles herunterladen (.zip)",
+  "choose_another": "Anderes Bild wählen",
+  "generic_error": "Aus diesem Bild konnten keine Favicons erstellt werden, bitte versuche es erneut.",
+  "footnote": "Jede Größe wird lokal in deinem Browser gerendert — das Bild wird nie hochgeladen.",
+  "how_title": "Drei Schritte, jede Größe abgedeckt",
+  "how_lead": "Ein Bild rein, ein komplettes Favicon-Set raus.",
+  "step1_title": "Bild hochladen",
+  "step1_desc": "Jedes annähernd quadratische PNG, JPG oder WebP funktioniert — wird automatisch mittig zugeschnitten.",
+  "step2_title": "Wir rendern jede Größe",
+  "step2_desc": "Versionen in 16, 32, 48, 180, 192 und 512px, plus ein site.webmanifest.",
+  "step3_title": ".zip herunterladen",
+  "step3_desc": "Lege die Dateien direkt in den Root-Ordner deiner Website."
+}

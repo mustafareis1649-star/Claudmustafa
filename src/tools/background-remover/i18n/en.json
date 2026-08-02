@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Free · AI runs in your browser · Photo is never uploaded",
+  "hero_title_a": "Remove the background,",
+  "hero_title_b": "keep the subject",
+  "hero_lead": "Cut a photo's subject out with a transparent background — no green screen, no editing skills. The AI model runs on your own device.",
+  "drop_title": "Drop your image here",
+  "drop_sub": "or click to browse · JPG, PNG, WebP",
+  "invalid_file": "Please choose an image file.",
+  "remove_btn": "Remove background",
+  "removing": "Removing background…",
+  "generic_error": "Something went wrong, please try again.",
+  "download_btn": "Download PNG",
+  "choose_another": "Choose another file",
+  "footnote": "The first run downloads a small AI model to your browser (cached after that); the photo itself is never sent anywhere. Output is a transparent PNG.",
+  "how_title": "Three steps, zero uploads",
+  "how_lead": "An on-device AI model does the work — your photo stays on your device.",
+  "step1_title": "Add your photo",
+  "step1_desc": "Drag and drop, or choose from your device. It never leaves your browser.",
+  "step2_title": "Let the AI find the subject",
+  "step2_desc": "One click, and an on-device model cuts the background away automatically.",
+  "step3_title": "Download the PNG",
+  "step3_desc": "Get a transparent-background PNG, ready to drop onto anything."
+}

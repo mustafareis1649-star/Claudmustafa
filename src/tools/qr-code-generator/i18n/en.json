@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Free · Runs in your browser · Nothing is uploaded",
+  "hero_title_a": "Generate a QR code,",
+  "hero_title_b": "from any text or link",
+  "hero_lead": "Turn a URL, wifi password, or any text into a scannable QR code, generated live in your browser.",
+  "input_label": "Text or URL",
+  "input_placeholder": "https://example.com",
+  "color_label": "Code color",
+  "background_label": "Background",
+  "empty_hint": "Your QR code will appear here as you type.",
+  "generic_error": "Couldn't generate a code for that text, please try again.",
+  "download_btn": "Download PNG",
+  "footnote": "The code is generated locally — nothing you type is sent anywhere.",
+  "how_title": "Three steps, zero uploads",
+  "how_lead": "Everything happens on your own device from start to finish.",
+  "step1_title": "Type your text or link",
+  "step1_desc": "The code updates live as you type — no button needed.",
+  "step2_title": "Pick your colors",
+  "step2_desc": "Match the code and background to your brand or design.",
+  "step3_title": "Download the PNG",
+  "step3_desc": "Get a high-resolution image ready to print or share."
+}

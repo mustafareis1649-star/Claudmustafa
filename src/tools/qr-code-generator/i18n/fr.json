@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Gratuit · Fonctionne dans votre navigateur · Rien n'est envoyé",
+  "hero_title_a": "Générez un code QR,",
+  "hero_title_b": "à partir de n'importe quel texte ou lien",
+  "hero_lead": "Transformez une URL, un mot de passe wifi ou tout texte en code QR scannable, généré en direct dans votre navigateur.",
+  "input_label": "Texte ou URL",
+  "input_placeholder": "https://exemple.com",
+  "color_label": "Couleur du code",
+  "background_label": "Arrière-plan",
+  "empty_hint": "Votre code QR apparaîtra ici au fur et à mesure que vous tapez.",
+  "generic_error": "Impossible de générer un code pour ce texte, veuillez réessayer.",
+  "download_btn": "Télécharger le PNG",
+  "footnote": "Le code est généré localement — rien de ce que vous tapez n'est envoyé où que ce soit.",
+  "how_title": "Trois étapes, zéro envoi",
+  "how_lead": "Tout se passe sur votre propre appareil du début à la fin.",
+  "step1_title": "Tapez votre texte ou lien",
+  "step1_desc": "Le code se met à jour en direct pendant que vous tapez, sans bouton nécessaire.",
+  "step2_title": "Choisissez vos couleurs",
+  "step2_desc": "Assortissez le code et l'arrière-plan à votre marque ou design.",
+  "step3_title": "Téléchargez le PNG",
+  "step3_desc": "Obtenez une image haute résolution prête à imprimer ou partager."
+}

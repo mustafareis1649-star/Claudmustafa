@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "PDF'i PowerPoint'e dönüştürün,",
+  "hero_title_b": "her sayfa bir slayt olsun",
+  "hero_lead": "PDF dosyanızı tarayıcınızda düzenlenebilir bir .pptx sunuma dönüştürün — kayıt yok, sunucuya yükleme yok, bekleme yok.",
+  "drop_title": "PDF dosyanızı buraya bırakın",
+  "drop_sub": "veya göz atmak için tıklayın · sadece .pdf",
+  "status_reading": "{current}/{total} sayfa okunuyor…",
+  "status_done": "Tamamlandı — PowerPoint dosyanız hazır.",
+  "footnote": "Her sayfa bir slayt olur; metin aktarılır, orijinal düzen ve görseller aktarılmaz.",
+  "invalid_file": "Lütfen bir PDF dosyası seçin.",
+  "generic_error": "Bir şeyler ters gitti, lütfen başka bir dosya deneyin.",
+  "download_btn": "Dosyayı indir",
+  "choose_another": "Başka dosya seç",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Dosyanız baştan sona kendi cihazınızda işlenir.",
+  "step1_title": "PDF dosyanızı ekleyin",
+  "step1_desc": "Sürükleyip bırakın veya cihazınızdan seçin. Tarayıcınızdan asla çıkmaz.",
+  "step2_title": "Yerel olarak işlenir",
+  "step2_desc": "Her sayfanın metni okunur ve kendi slaydına yerleştirilir.",
+  "step3_title": "Sonucu indirin",
+  "step3_desc": "Bitmiş .pptx dosyanızı tek tıkla indirin, düzenlemeye veya sunmaya hazır."
+}

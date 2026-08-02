@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Grátis · Funciona no seu navegador · Nada é enviado",
+  "hero_title_a": "Gere um código QR,",
+  "hero_title_b": "a partir de qualquer texto ou link",
+  "hero_lead": "Transforme uma URL, senha de wifi ou qualquer texto em um código QR escaneável, gerado ao vivo no seu navegador.",
+  "input_label": "Texto ou URL",
+  "input_placeholder": "https://exemplo.com",
+  "color_label": "Cor do código",
+  "background_label": "Fundo",
+  "empty_hint": "Seu código QR aparecerá aqui enquanto você digita.",
+  "generic_error": "Não foi possível gerar um código para esse texto, tente novamente.",
+  "download_btn": "Baixar PNG",
+  "footnote": "O código é gerado localmente — nada do que você digita é enviado a lugar nenhum.",
+  "how_title": "Três passos, zero uploads",
+  "how_lead": "Tudo acontece no seu próprio dispositivo do início ao fim.",
+  "step1_title": "Digite seu texto ou link",
+  "step1_desc": "O código atualiza ao vivo enquanto você digita — sem precisar de botão.",
+  "step2_title": "Escolha suas cores",
+  "step2_desc": "Combine o código e o fundo com sua marca ou design.",
+  "step3_title": "Baixe o PNG",
+  "step3_desc": "Obtenha uma imagem em alta resolução pronta para imprimir ou compartilhar."
+}

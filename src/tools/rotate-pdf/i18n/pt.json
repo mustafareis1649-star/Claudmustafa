@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Grátis · Roda no seu navegador · Nada é enviado",
+  "hero_title_a": "Gire um PDF,",
+  "hero_title_b": "corrija a orientação",
+  "hero_lead": "Gire todas as páginas de um PDF em 90°, 180° ou 270° com um clique. Funciona totalmente no seu próprio dispositivo.",
+  "drop_title": "Solte seu PDF aqui",
+  "rotate_btn": "Girar PDF",
+  "rotating": "Girando…",
+  "footnote": "A rotação se aplica a todas as páginas do arquivo.",
+  "invalid_file": "Por favor, escolha um arquivo PDF.",
+  "generic_error": "Algo deu errado, tente novamente.",
+  "download_btn": "Baixar arquivo",
+  "choose_another": "Escolher outro arquivo",
+  "drop_sub": "ou clique para procurar · somente PDF",
+  "how_title": "Três passos, zero uploads",
+  "how_lead": "Seu arquivo é processado no seu próprio dispositivo do início ao fim.",
+  "step1_title": "Adicione seu PDF",
+  "step1_desc": "Arraste e solte, ou escolha do seu dispositivo. Ele nunca sai do seu navegador.",
+  "step2_title": "Processado localmente",
+  "step3_title": "Baixe o resultado",
+  "step3_desc": "Obtenha seu arquivo pronto em um clique, pronto para compartilhar ou guardar."
+}

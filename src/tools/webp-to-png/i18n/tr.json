@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "WebP'den PNG'ye,",
+  "hero_title_b": "tarayıcınızda dönüştürün",
+  "hero_lead": "Bir WebP görselini şeffaflığı korunarak standart bir PNG dosyasına dönüştürün. Tamamen kendi cihazınızda işlenir — hiçbir şey sunucuya yüklenmez.",
+  "drop_title": "WebP dosyanızı buraya bırakın",
+  "drop_sub": "veya göz atmak için tıklayın · .webp",
+  "invalid_file": "Lütfen bir WebP (.webp) görsel dosyası seçin.",
+  "convert_btn": "PNG'ye dönüştür",
+  "converting": "Dönüştürülüyor…",
+  "generic_error": "Bir şeyler ters gitti, lütfen tekrar deneyin.",
+  "download_btn": "PNG'yi indir",
+  "choose_another": "Başka dosya seç",
+  "footnote": "Çıktı, orijinal şeffaflığı ve piksel boyutlarını korur — yalnızca format değişir.",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Görseliniz baştan sona kendi cihazınızda işlenir.",
+  "step1_title": "WebP görselinizi ekleyin",
+  "step1_desc": "Sürükleyip bırakın veya cihazınızdan seçin. Tarayıcınızdan asla çıkmaz.",
+  "step2_title": "Dönüştürün",
+  "step2_desc": "Tek tıkla görsel standart bir PNG dosyası olarak yeniden kodlanır.",
+  "step3_title": "PNG'yi indirin",
+  "step3_desc": "Dönüştürülmüş dosyanızı anında alın, her yerde kullanıma hazır."
+}

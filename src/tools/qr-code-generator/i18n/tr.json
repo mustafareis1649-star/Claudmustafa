@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "QR kod oluştur,",
+  "hero_title_b": "herhangi bir metin veya bağlantıdan",
+  "hero_lead": "Bir URL'yi, wifi şifresini veya herhangi bir metni tarayıcınızda anında taranabilir bir QR koduna dönüştürün.",
+  "input_label": "Metin veya URL",
+  "input_placeholder": "https://ornek.com",
+  "color_label": "Kod rengi",
+  "background_label": "Arka plan",
+  "empty_hint": "Yazdıkça QR kodunuz burada görünecek.",
+  "generic_error": "Bu metin için kod oluşturulamadı, lütfen tekrar deneyin.",
+  "download_btn": "PNG indir",
+  "footnote": "Kod yerel olarak oluşturulur — yazdığınız hiçbir şey herhangi bir yere gönderilmez.",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Her şey baştan sona kendi cihazınızda gerçekleşir.",
+  "step1_title": "Metninizi veya bağlantınızı yazın",
+  "step1_desc": "Yazdıkça kod anında güncellenir — düğmeye gerek yok.",
+  "step2_title": "Renklerinizi seçin",
+  "step2_desc": "Kodu ve arka planı markanıza veya tasarımınıza uydurun.",
+  "step3_title": "PNG'yi indirin",
+  "step3_desc": "Yazdırmaya veya paylaşmaya hazır yüksek çözünürlüklü bir görsel edinin."
+}

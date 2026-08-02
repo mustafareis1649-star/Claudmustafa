@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Gratuit · Fonctionne dans votre navigateur · Rien n'est envoyé",
+  "hero_title_a": "Divisez un PDF,",
+  "hero_title_b": "un fichier par page",
+  "hero_lead": "Divisez un PDF en pages individuelles et téléchargez-les toutes dans un zip. Tout se passe sur votre propre appareil.",
+  "drop_title": "Déposez votre PDF ici",
+  "status_splitting": "Division de la page {current} sur {total}…",
+  "status_done": "Terminé — {count} pages prêtes dans un fichier zip.",
+  "footnote": "Chaque page devient son propre fichier PDF dans le zip téléchargé.",
+  "invalid_file": "Veuillez choisir un fichier PDF.",
+  "generic_error": "Une erreur s'est produite, veuillez réessayer.",
+  "download_btn": "Télécharger le fichier",
+  "choose_another": "Choisir un autre fichier",
+  "drop_sub": "ou cliquez pour parcourir · PDF uniquement",
+  "how_title": "Trois étapes, zéro envoi",
+  "how_lead": "Votre fichier est traité sur votre propre appareil du début à la fin.",
+  "step1_title": "Ajoutez votre PDF",
+  "step1_desc": "Glissez-déposez ou choisissez depuis votre appareil. Il ne quitte jamais votre navigateur.",
+  "step2_title": "Traité localement",
+  "step3_title": "Téléchargez le résultat",
+  "step3_desc": "Obtenez votre fichier terminé en un clic, prêt à partager ou à conserver."
+}

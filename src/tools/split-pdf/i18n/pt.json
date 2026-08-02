@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Grátis · Roda no seu navegador · Nada é enviado",
+  "hero_title_a": "Divida um PDF,",
+  "hero_title_b": "um arquivo por página",
+  "hero_lead": "Divida um PDF em páginas individuais e baixe todas em um zip. Tudo acontece no seu próprio dispositivo.",
+  "drop_title": "Solte seu PDF aqui",
+  "status_splitting": "Dividindo página {current} de {total}…",
+  "status_done": "Pronto — {count} páginas prontas em um arquivo zip.",
+  "footnote": "Cada página se torna seu próprio arquivo PDF dentro do zip baixado.",
+  "invalid_file": "Por favor, escolha um arquivo PDF.",
+  "generic_error": "Algo deu errado, tente novamente.",
+  "download_btn": "Baixar arquivo",
+  "choose_another": "Escolher outro arquivo",
+  "drop_sub": "ou clique para procurar · somente PDF",
+  "how_title": "Três passos, zero uploads",
+  "how_lead": "Seu arquivo é processado no seu próprio dispositivo do início ao fim.",
+  "step1_title": "Adicione seu PDF",
+  "step1_desc": "Arraste e solte, ou escolha do seu dispositivo. Ele nunca sai do seu navegador.",
+  "step2_title": "Processado localmente",
+  "step3_title": "Baixe o resultado",
+  "step3_desc": "Obtenha seu arquivo pronto em um clique, pronto para compartilhar ou guardar."
+}

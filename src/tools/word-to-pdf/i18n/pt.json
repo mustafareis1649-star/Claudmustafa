@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Free · Runs in your browser · Nothing is uploaded",
+  "hero_title_a": "Convert Word to PDF,",
+  "hero_title_b": "keep your document ready to share",
+  "hero_lead": "Turn a .docx file into a PDF right in your browser — no signup, no upload, no waiting on a server.",
+  "drop_title": "Drop your Word file here",
+  "drop_sub": "or click to browse · .docx only",
+  "converting": "Converting…",
+  "status_done": "Done — your PDF is ready.",
+  "footnote": "Text and paragraph structure carry over; complex layouts and images may render simplified.",
+  "invalid_file": "Please choose a .docx file.",
+  "generic_error": "Something went wrong, please try another file.",
+  "download_btn": "Download file",
+  "choose_another": "Choose another file",
+  "how_title": "Three steps, zero uploads",
+  "how_lead": "Your file is processed on your own device from start to finish.",
+  "step1_title": "Add your Word file",
+  "step1_desc": "Drag and drop, or choose from your device. It never leaves your browser.",
+  "step2_title": "It's processed locally",
+  "step2_desc": "Your document's text and structure are laid out onto PDF pages.",
+  "step3_title": "Download the result",
+  "step3_desc": "Get your finished PDF in one click, ready to share or store."
+}

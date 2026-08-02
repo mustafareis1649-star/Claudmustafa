@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>itdocsy</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!--
+  pdf.js runs entirely client-side (WASM) — no file is ever uploaded.
+  cdnjs only ships the ES module build (.mjs) for pdf.js 4.x, the old
+  UMD .js paths 404 and silently leave window.pdfjsLib undefined — that
+  was the bug that made "PDF → Word" look like it did nothing on upload.
+  This module script runs before main.jsx (module scripts execute in
+  document order) and attaches the library to window so the rest of the
+  app can keep using window.pdfjsLib the same way as before.
+-->
+<script type="module">
+  import * as pdfjsLib from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs';
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs';
+  window.pdfjsLib = pdfjsLib;
+</script>
+<!--
+  mammoth.js only ships a UMD browser build, so a plain (non-module)
+  script tag is used here instead of the import-then-assign pattern above
+  — it attaches itself to window.mammoth on its own. Used by the
+  "Word to PDF" tool to read .docx files entirely client-side.
+-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.11.0/mammoth.browser.min.js"></script>
+<!--
+  SheetJS (xlsx) only ships a UMD browser build, so a plain script tag is
+  used here too — it attaches itself to window.XLSX. Used by the
+  "PDF to Excel" tool (writes .xlsx) and "Excel to PDF" tool (reads
+  .xlsx/.xls), both entirely client-side.
+-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

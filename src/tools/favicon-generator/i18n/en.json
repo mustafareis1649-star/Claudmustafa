@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Free · Runs in your browser · Nothing is uploaded",
+  "hero_title_a": "Generate a favicon,",
+  "hero_title_b": "in every size a site needs",
+  "hero_lead": "Drop in one image and get a complete favicon set — 16px to 512px, plus a web manifest — packed into one .zip.",
+  "drop_title": "Drop an image here",
+  "drop_sub": "PNG, JPG or WebP — square images work best",
+  "invalid_file": "That doesn't look like an image file. Try a PNG, JPG or WebP.",
+  "generating": "Generating your favicon set…",
+  "preview_title": "Preview",
+  "download_all_btn": "Download all (.zip)",
+  "choose_another": "Choose another image",
+  "generic_error": "Couldn't generate favicons from that image, please try again.",
+  "footnote": "Every size is rendered locally in your browser — the image is never uploaded.",
+  "how_title": "Three steps, every size covered",
+  "how_lead": "One image in, a complete favicon set out.",
+  "step1_title": "Upload your image",
+  "step1_desc": "Any square-ish PNG, JPG or WebP works — it's cropped to a centered square automatically.",
+  "step2_title": "We render every size",
+  "step2_desc": "16, 32, 48, 180, 192 and 512px versions, plus a site.webmanifest.",
+  "step3_title": "Download the .zip",
+  "step3_desc": "Drop the files straight into your site's root folder."
+}

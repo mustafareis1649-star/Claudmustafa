@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "PowerPoint'i PDF'e dönüştürün,",
+  "hero_title_b": "sunumunuz paylaşıma hazır olsun",
+  "hero_lead": "Bir .pptx dosyasını tarayıcınızda PDF'e dönüştürün — kayıt yok, sunucuya yükleme yok, bekleme yok.",
+  "drop_title": "PowerPoint dosyanızı buraya bırakın",
+  "drop_sub": "veya göz atmak için tıklayın · sadece .pptx",
+  "converting": "Dönüştürülüyor…",
+  "status_done": "Tamamlandı — PDF'iniz hazır.",
+  "footnote": "Her slayttaki metin aktarılır; görsel stil, resimler ve animasyonlar aktarılmaz.",
+  "invalid_file": "Lütfen bir .pptx dosyası seçin.",
+  "generic_error": "Bir şeyler ters gitti, lütfen başka bir dosya deneyin.",
+  "download_btn": "Dosyayı indir",
+  "choose_another": "Başka dosya seç",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Dosyanız baştan sona kendi cihazınızda işlenir.",
+  "step1_title": "PowerPoint dosyanızı ekleyin",
+  "step1_desc": "Sürükleyip bırakın veya cihazınızdan seçin. Tarayıcınızdan asla çıkmaz.",
+  "step2_title": "Yerel olarak işlenir",
+  "step2_desc": "Her slaydın metni okunur ve kendi PDF sayfasına yerleştirilir.",
+  "step3_title": "Sonucu indirin",
+  "step3_desc": "Bitmiş PDF dosyanızı tek tıkla indirin, paylaşmaya veya saklamaya hazır."
+}

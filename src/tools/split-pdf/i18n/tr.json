@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcında çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "PDF'i böl,",
+  "hero_title_b": "her sayfa ayrı bir dosya",
+  "hero_lead": "Bir PDF'i tek tek sayfalara ayır ve hepsini zip olarak indir. Her şey kendi cihazında gerçekleşir.",
+  "drop_title": "PDF'ini buraya bırak",
+  "status_splitting": "{total} sayfadan {current}. bölünüyor…",
+  "status_done": "Bitti — {count} sayfa bir zip dosyasında hazır.",
+  "footnote": "Her sayfa, indirilen zip içinde kendi PDF dosyası olur.",
+  "invalid_file": "Lütfen bir PDF dosyası seçin.",
+  "generic_error": "Bir şeyler ters gitti, lütfen tekrar deneyin.",
+  "download_btn": "Dosyayı indir",
+  "choose_another": "Başka bir dosya seç",
+  "drop_sub": "veya göz atmak için tıklayın · yalnızca PDF",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Dosyan baştan sona kendi cihazında işlenir.",
+  "step1_title": "PDF'ini ekle",
+  "step1_desc": "Sürükleyip bırak veya cihazından seç. Dosyan tarayıcından hiç çıkmaz.",
+  "step2_title": "Yerel olarak işlenir",
+  "step3_title": "Sonucu indir",
+  "step3_desc": "Tek tıkla, paylaşmaya veya saklamaya hazır dosyanı al."
+}

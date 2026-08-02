@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcında çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "PDF'i döndür,",
+  "hero_title_b": "yönünü düzelt",
+  "hero_lead": "Bir PDF'in tüm sayfalarını tek tıkla 90°, 180° veya 270° döndür. Tamamen kendi cihazında çalışır.",
+  "drop_title": "PDF'ini buraya bırak",
+  "rotate_btn": "PDF'i döndür",
+  "rotating": "Döndürülüyor…",
+  "footnote": "Döndürme, dosyadaki tüm sayfalara uygulanır.",
+  "invalid_file": "Lütfen bir PDF dosyası seçin.",
+  "generic_error": "Bir şeyler ters gitti, lütfen tekrar deneyin.",
+  "download_btn": "Dosyayı indir",
+  "choose_another": "Başka bir dosya seç",
+  "drop_sub": "veya göz atmak için tıklayın · yalnızca PDF",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Dosyan baştan sona kendi cihazında işlenir.",
+  "step1_title": "PDF'ini ekle",
+  "step1_desc": "Sürükleyip bırak veya cihazından seç. Dosyan tarayıcından hiç çıkmaz.",
+  "step2_title": "Yerel olarak işlenir",
+  "step3_title": "Sonucu indir",
+  "step3_desc": "Tek tıkla, paylaşmaya veya saklamaya hazır dosyanı al."
+}

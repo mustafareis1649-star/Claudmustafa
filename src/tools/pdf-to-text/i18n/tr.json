@@ -1,0 +1,23 @@
+{
+  "hero_eyebrow": "Ücretsiz · Tarayıcınızda çalışır · Hiçbir şey yüklenmez",
+  "hero_title_a": "PDF'i Metne dönüştürün,",
+  "hero_title_b": "sade bir .txt dosyası alın",
+  "hero_lead": "PDF dosyanızdaki her kelimeyi tarayıcınızda düz metin dosyasına dönüştürün — kayıt yok, sunucuya yükleme yok, bekleme yok.",
+  "drop_title": "PDF dosyanızı buraya bırakın",
+  "drop_sub": "veya göz atmak için tıklayın · sadece .pdf",
+  "status_reading": "{current}/{total} sayfa okunuyor…",
+  "status_done": "Tamamlandı — metin dosyanız hazır.",
+  "footnote": "Biçimlendirme, görseller ve sayfa düzeni korunmaz — yalnızca metin aktarılır.",
+  "invalid_file": "Lütfen bir PDF dosyası seçin.",
+  "generic_error": "Bir şeyler ters gitti, lütfen başka bir dosya deneyin.",
+  "download_btn": "Dosyayı indir",
+  "choose_another": "Başka dosya seç",
+  "how_title": "Üç adım, sıfır yükleme",
+  "how_lead": "Dosyanız baştan sona kendi cihazınızda işlenir.",
+  "step1_title": "PDF dosyanızı ekleyin",
+  "step1_desc": "Sürükleyip bırakın veya cihazınızdan seçin. Tarayıcınızdan asla çıkmaz.",
+  "step2_title": "Yerel olarak işlenir",
+  "step2_desc": "Her sayfanın metni sırayla okunur.",
+  "step3_title": "Sonucu indirin",
+  "step3_desc": "Bitmiş .txt dosyanızı tek tıkla indirin, istediğiniz yere yapıştırmaya hazır."
+}
